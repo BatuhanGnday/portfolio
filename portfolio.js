@@ -166,21 +166,38 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "lorem ipsum",
+		name: "Campus App RESTful API",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		link: "https://example.com",
 	},
 	{
-		name: "lorem ipsum",
+		name: "Campus App Mobile",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/1hanzla100",
 	},
 	{
-		name: "lorem ipsum",
+		name: "Bungee Social Web API",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/1hanzla100",
 		link: "https://example.com",
 	},
+	{
+		name: "Bungee Social iOS",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		github: "https://github.com/1hanzla100",
+		link: "https://example.com",
+	},
+	{
+		name: "cryptxbot",
+		desc: "A simple telegram bot developed using telegraf.js. It enables the user to follow the cryptocurrency exchange with the data I receive from the coinmarketcap web service.",
+		github: "https://github.com/1hanzla100",
+		link: "https://example.com",
+	},
+	{
+		name: "8 Puzzle Solver (AI)",
+		desc: "A console application that decides whether the given 8 puzzles are solvable or not, and if so, solves them with the BFS algorithm.",
+		github: "https://github.com/BatuhanGnday/BFS-8puzzle-ai",
+	}
 ];
 
 // export const feedbacks = [
